@@ -1,0 +1,199 @@
+version: 1
+category: Symptom
+entities:
+- id: headache
+  canonical: Headache
+  category: Symptom
+  normalized: Headache
+  aliases:
+  - head pain
+  - cephalgia
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals:
+  - headaches
+  metadata:
+    severity: mild
+    emergency: false
+  aliases_hi: []
+  aliases_te: []
+- id: fever
+  canonical: Fever
+  category: Symptom
+  normalized: Fever
+  aliases:
+  - high temperature
+  - pyrexia
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    severity: moderate
+    emergency: false
+  aliases_hi: []
+  aliases_te: []
+- id: cough
+  canonical: Cough
+  category: Symptom
+  normalized: Cough
+  aliases:
+  - coughing
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    severity: mild
+    emergency: false
+  aliases_hi: []
+  aliases_te: []
+- id: chest_pain
+  canonical: Chest Pain
+  category: Symptom
+  normalized: Chest Pain
+  aliases:
+  - chest discomfort
+  - pain in chest
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    severity: severe
+    emergency: true
+  aliases_hi: []
+  aliases_te: []
+- id: shortness_of_breath
+  canonical: Shortness of Breath
+  category: Symptom
+  normalized: Shortness of Breath
+  aliases:
+  - difficulty breathing
+  - cant breathe
+  - cannot breathe
+  - dyspnea
+  synonyms: []
+  abbreviations: []
+  misspellings:
+  - shortnes of breath
+  plurals: []
+  metadata:
+    severity: severe
+    emergency: true
+  aliases_hi: []
+  aliases_te: []
+- id: vomiting
+  canonical: Vomiting
+  category: Symptom
+  normalized: Vomiting
+  aliases:
+  - throwing up
+  - emesis
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    severity: moderate
+    emergency: false
+  aliases_hi: []
+  aliases_te: []
+- id: dizziness
+  canonical: Dizziness
+  category: Symptom
+  normalized: Dizziness
+  aliases:
+  - dizzy
+  - vertigo
+  - lightheaded
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    severity: moderate
+    emergency: false
+  aliases_hi: []
+  aliases_te: []
+- id: rash
+  canonical: Rash
+  category: Symptom
+  normalized: Rash
+  aliases:
+  - skin rash
+  - eruption
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    severity: mild
+    emergency: false
+  aliases_hi: []
+  aliases_te: []
+- id: sore_throat
+  canonical: Sore Throat
+  category: Symptom
+  normalized: Sore Throat
+  aliases:
+  - throat pain
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    severity: mild
+    emergency: false
+  aliases_hi: []
+  aliases_te: []
+- id: body_pain
+  canonical: Body Pain
+  category: Symptom
+  normalized: Body Pain
+  aliases:
+  - body ache
+  - myalgia
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    severity: mild
+    emergency: false
+  aliases_hi: []
+  aliases_te: []
+- id: abdominal_pain
+  canonical: Abdominal Pain
+  category: Symptom
+  normalized: Abdominal Pain
+  aliases:
+  - stomach pain
+  - belly pain
+  - tummy pain
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    severity: moderate
+    emergency: false
+  aliases_hi: []
+  aliases_te: []
+- id: bleeding
+  canonical: Severe Bleeding
+  category: Symptom
+  normalized: Severe Bleeding
+  aliases:
+  - heavy bleeding
+  - uncontrolled bleeding
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    severity: severe
+    emergency: true
+  aliases_hi: []
+  aliases_te: []

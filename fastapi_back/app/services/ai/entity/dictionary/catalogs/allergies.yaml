@@ -1,0 +1,80 @@
+version: 1
+category: Allergy
+entities:
+- id: allergy_penicillin
+  canonical: Penicillin
+  category: Allergy
+  normalized: Penicillin
+  aliases:
+  - penicillin allergy
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: allergy_sulfa
+  canonical: Sulfa
+  category: Allergy
+  normalized: Sulfa
+  aliases:
+  - sulfa drugs
+  - sulfonamide
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: allergy_peanut
+  canonical: Peanut
+  category: Allergy
+  normalized: Peanut
+  aliases:
+  - groundnut
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: allergy_dust
+  canonical: Dust
+  category: Allergy
+  normalized: Dust
+  aliases:
+  - dust mite
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: allergy_pollen
+  canonical: Pollen
+  category: Allergy
+  normalized: Pollen
+  aliases: []
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: allergy_latex
+  canonical: Latex
+  category: Allergy
+  normalized: Latex
+  aliases: []
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []

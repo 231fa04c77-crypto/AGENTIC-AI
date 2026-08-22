@@ -1,0 +1,18 @@
+<svg width="126" height="126" viewBox="0 0 126 126" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="63" cy="63" r="63" fill="url(#paint0_linear_dent)"/>
+<ellipse cx="63" cy="70" rx="16" ry="12" fill="#F7DECE" stroke="#8B6F47" stroke-width="2"/>
+<rect x="55" y="68" width="16" height="4" rx="1" fill="#FFFFFF" opacity="0.9"/>
+<rect x="57" y="70" width="3" height="6" rx="1" fill="#4A90E2"/>
+<rect x="62" y="70" width="3" height="6" rx="1" fill="#4A90E2"/>
+<rect x="67" y="70" width="3" height="6" rx="1" fill="#4A90E2"/>
+<path d="M63 60L63 55M60 57L66 57M60 62L66 62" stroke="#8B6F47" stroke-width="2" stroke-linecap="round"/>
+<circle cx="60" cy="74" r="1.5" fill="#FFFFFF"/>
+<circle cx="66" cy="74" r="1.5" fill="#FFFFFF"/>
+<path d="M50 68L48 72M76 68L78 72" stroke="#8B6F47" stroke-width="2" stroke-linecap="round"/>
+<defs>
+<linearGradient id="paint0_linear_dent" x1="63" y1="0" x2="63" y2="126" gradientUnits="userSpaceOnUse">
+<stop stop-color="#AFC1DC"/>
+<stop offset="1" stop-color="#E2E5ED"/>
+</linearGradient>
+</defs>
+</svg>

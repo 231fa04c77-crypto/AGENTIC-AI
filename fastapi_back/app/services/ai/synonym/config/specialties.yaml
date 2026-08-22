@@ -1,0 +1,156 @@
+version: 1
+category: specialty
+entries:
+- id: derm
+  canonical: Dermatologist
+  category: specialty
+  synonyms:
+  - skin doctor
+  - skin specialist
+  - skin physician
+  aliases:
+  - derm doctor
+  abbreviations: []
+  misspellings:
+  - dermotologist
+  - dermatolgist
+  plurals: []
+- id: cardio
+  canonical: Cardiologist
+  category: specialty
+  synonyms:
+  - heart doctor
+  - heart specialist
+  - cardiac doctor
+  - heart physician
+  - cardiac specialist
+  aliases: []
+  abbreviations: []
+  misspellings:
+  - cardioligist
+  - cardialogist
+  plurals: []
+- id: nephro
+  canonical: Nephrologist
+  category: specialty
+  synonyms:
+  - kidney doctor
+  - kidney specialist
+  - renal doctor
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: pedia
+  canonical: Pediatrician
+  category: specialty
+  synonyms:
+  - children doctor
+  - child doctor
+  - kids doctor
+  - child specialist
+  - paediatrician
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: ophtho
+  canonical: Ophthalmologist
+  category: specialty
+  synonyms:
+  - eye doctor
+  - eye specialist
+  - vision doctor
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: ortho
+  canonical: Orthopedic
+  category: specialty
+  synonyms:
+  - bone doctor
+  - bone specialist
+  - ortho doctor
+  aliases:
+  - orthopaedic
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: gyn
+  canonical: Gynecologist
+  category: specialty
+  synonyms:
+  - women's doctor
+  - womens doctor
+  - lady doctor
+  - women doctor
+  aliases:
+  - gynaecologist
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: neuro
+  canonical: Neurologist
+  category: specialty
+  synonyms:
+  - nerve doctor
+  - brain doctor
+  - neuro specialist
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: ent
+  canonical: ENT
+  category: specialty
+  synonyms:
+  - ear nose throat doctor
+  - ent doctor
+  aliases: []
+  abbreviations:
+  - ENT
+  misspellings: []
+  plurals: []
+- id: gp
+  canonical: General Physician
+  category: specialty
+  synonyms:
+  - family doctor
+  - general doctor
+  aliases: []
+  abbreviations:
+  - GP
+  misspellings: []
+  plurals: []
+- id: endo
+  canonical: Endocrinologist
+  category: specialty
+  synonyms:
+  - sugar doctor
+  - hormone doctor
+  - diabetes doctor
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: pulmo
+  canonical: Pulmonologist
+  category: specialty
+  synonyms:
+  - lung doctor
+  - chest doctor
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: dentist
+  canonical: Dentist
+  category: specialty
+  synonyms:
+  - tooth doctor
+  - dental doctor
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []

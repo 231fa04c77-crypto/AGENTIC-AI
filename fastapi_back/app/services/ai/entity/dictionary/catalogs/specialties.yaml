@@ -1,0 +1,264 @@
+version: 1
+category: Specialty
+entities:
+- id: dermatologist
+  canonical: Dermatologist
+  category: Specialty
+  normalized: Dermatologist
+  aliases:
+  - dermatology
+  - skin specialist
+  - skin doctor
+  synonyms: []
+  abbreviations:
+  - derm
+  misspellings:
+  - dermotologist
+  - dermatolgist
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: cardiologist
+  canonical: Cardiologist
+  category: Specialty
+  normalized: Cardiologist
+  aliases:
+  - cardiology
+  - heart specialist
+  - heart doctor
+  synonyms: []
+  abbreviations:
+  - cardio
+  misspellings:
+  - cardioligist
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: neurologist
+  canonical: Neurology
+  category: Specialty
+  normalized: Neurology
+  aliases:
+  - neurology
+  - neuro specialist
+  synonyms: []
+  abbreviations:
+  - neuro
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: orthopedic
+  canonical: Orthopedics
+  category: Specialty
+  normalized: Orthopedics
+  aliases:
+  - orthopaedic
+  - orthopedics
+  - bone specialist
+  - ortho
+  synonyms: []
+  abbreviations: []
+  misspellings:
+  - orthopeadic
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: gynecologist
+  canonical: Gynecologist
+  category: Specialty
+  normalized: Gynecologist
+  aliases:
+  - gynaecologist
+  - gynecology
+  - gynaecology
+  synonyms: []
+  abbreviations:
+  - gynae
+  - obgyn
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: psychiatrist
+  canonical: Psychiatry
+  category: Specialty
+  normalized: Psychiatry
+  aliases:
+  - psychiatry
+  - mental health doctor
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: ent
+  canonical: ENT
+  category: Specialty
+  normalized: ENT
+  aliases:
+  - ear nose throat
+  - ent specialist
+  - otolaryngologist
+  synonyms: []
+  abbreviations:
+  - ENT
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: general_physician
+  canonical: General Physician
+  category: Specialty
+  normalized: General Physician
+  aliases:
+  - physician
+  - gp
+  - family doctor
+  - general practitioner
+  synonyms: []
+  abbreviations:
+  - GP
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: pediatrician
+  canonical: Pediatrician
+  category: Specialty
+  normalized: Pediatrician
+  aliases:
+  - pediatric
+  - pediatrics
+  - child specialist
+  - paediatrician
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: dentist
+  canonical: Dentistry
+  category: Specialty
+  normalized: Dentistry
+  aliases:
+  - dental
+  - tooth doctor
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: ophthalmologist
+  canonical: Ophthalmologist
+  category: Specialty
+  normalized: Ophthalmologist
+  aliases:
+  - eye specialist
+  - eye doctor
+  synonyms: []
+  abbreviations:
+  - ophtho
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: pulmonologist
+  canonical: Pulmonologist
+  category: Specialty
+  normalized: Pulmonologist
+  aliases:
+  - lung specialist
+  - chest specialist
+  - pulmonology
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: nephrologist
+  canonical: Nephrologist
+  category: Specialty
+  normalized: Nephrologist
+  aliases:
+  - kidney specialist
+  - nephrology
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: gastroenterologist
+  canonical: Gastroenterologist
+  category: Specialty
+  normalized: Gastroenterologist
+  aliases:
+  - gastro
+  - stomach specialist
+  - gastroenterology
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: oncologist
+  canonical: Oncologist
+  category: Specialty
+  normalized: Oncologist
+  aliases:
+  - cancer specialist
+  - oncology
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: endocrinologist
+  canonical: Endocrinologist
+  category: Specialty
+  normalized: Endocrinologist
+  aliases:
+  - hormone specialist
+  - endocrinology
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: urologist
+  canonical: Urologist
+  category: Specialty
+  normalized: Urologist
+  aliases:
+  - urology
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []

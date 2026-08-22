@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: medichain-backend
+    env: node
+    rootDir: backend
+    buildCommand: npm ci --prefer-offline --no-audit
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 4000
+      # Add your environment variables in Render Dashboard:
+      # MONGODB_URI, JWT_SECRET, ADMIN_JWT_SECRET, DOCTOR_JWT_SECRET
+      # CLOUDINARY_CLOUD_NAME, CLOUDINARY_API_KEY, CLOUDINARY_API_SECRET
+      # EMAIL_USER, EMAIL_APP_PASSWORD
+      # RAZORPAY_KEY_ID, RAZORPAY_KEY_SECRET
+      # FRONTEND_URL, ADMIN_URL
+      # etc.
+

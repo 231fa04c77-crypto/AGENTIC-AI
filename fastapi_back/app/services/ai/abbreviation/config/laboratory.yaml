@@ -1,0 +1,96 @@
+version: 1
+category: Laboratory
+entries:
+- id: cbc
+  abbreviation: CBC
+  expanded: Complete Blood Count
+  canonical: Complete Blood Count
+  category: Laboratory
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: lft
+  abbreviation: LFT
+  expanded: Liver Function Test
+  canonical: Liver Function Test
+  category: Laboratory
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: kft
+  abbreviation: KFT
+  expanded: Kidney Function Test
+  canonical: Kidney Function Test
+  category: Laboratory
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: rft
+  abbreviation: RFT
+  expanded: Renal Function Test
+  canonical: Renal Function Test
+  category: Laboratory
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: hba1c
+  abbreviation: HbA1c
+  expanded: Glycated Hemoglobin
+  canonical: Glycated Hemoglobin
+  category: Laboratory
+  aliases:
+  - HBA1C
+  - A1C
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: rbs
+  abbreviation: RBS
+  expanded: Random Blood Sugar
+  canonical: Random Blood Sugar
+  category: Laboratory
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: fbs
+  abbreviation: FBS
+  expanded: Fasting Blood Sugar
+  canonical: Fasting Blood Sugar
+  category: Laboratory
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: ppbs
+  abbreviation: PPBS
+  expanded: Post Prandial Blood Sugar
+  canonical: Post Prandial Blood Sugar
+  category: Laboratory
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: ecg
+  abbreviation: ECG
+  expanded: Electrocardiogram
+  canonical: Electrocardiogram
+  category: Laboratory
+  aliases:
+  - EKG
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: tsh
+  abbreviation: TSH
+  expanded: Thyroid Stimulating Hormone
+  canonical: Thyroid Stimulating Hormone
+  category: Laboratory
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []

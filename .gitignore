@@ -1,0 +1,100 @@
+# Environment Variables (CRITICAL - Contains sensitive credentials)
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+*.env
+config.env
+**/config.env
+backend/.env
+frontend/.env
+admin/.env
+flutter_mobile/assets/config.env
+
+# Credentials (never commit)
+*_credentials.md
+**/all_*_credentials.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins-dependencies
+flutter_mobile/build/
+
+# FastAPI dev-only
+fastapi_back/scratch/
+fastapi_back/analysis_report.txt
+fastapi_back/hospital_doctor_list_utf8.txt
+
+# Dependencies
+node_modules/
+*/node_modules/
+backend/node_modules/
+frontend/node_modules/
+admin/node_modules/
+
+# Build outputs
+dist/
+build/
+*/dist/
+*/build/
+frontend/dist/
+admin/dist/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+pnpm-debug.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.vs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Coverage
+coverage/
+*.lcov
+.nyc_output/
+
+# Vercel
+.vercel
+
+# Testing
+.cache/
+
+# Misc
+*.pem
+*.key
+*.cert
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploads (if storing locally)
+uploads/
+public/uploads/

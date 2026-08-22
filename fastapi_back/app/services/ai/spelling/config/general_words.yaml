@@ -1,0 +1,67 @@
+version: 1
+category: General
+entries:
+- id: tomorrow
+  canonical: tomorrow
+  category: General
+  misspellings:
+  - tomorow
+  - tommorow
+  - tommorrow
+- id: appointment
+  canonical: appointment
+  category: General
+  misspellings:
+  - appointmnt
+  - appoinment
+  - appoitment
+- id: medicine
+  canonical: medicine
+  category: General
+  misspellings:
+  - medcine
+  - medicne
+  - medicin
+- id: doctor
+  canonical: doctor
+  category: General
+  misspellings:
+  - docter
+  - doctr
+  - docotor
+- id: hospital
+  canonical: hospital
+  category: General
+  misspellings:
+  - hospitl
+  - hospitle
+  - hospitaal
+- id: laboratory
+  canonical: laboratory
+  category: General
+  misspellings:
+  - labratory
+  - laboratry
+- id: cancel
+  canonical: cancel
+  category: General
+  misspellings:
+  - cancle
+  - cancell
+- id: reschedule
+  canonical: reschedule
+  category: General
+  misspellings:
+  - reshedule
+  - reschedual
+- id: ambulance
+  canonical: ambulance
+  category: General
+  misspellings:
+  - ambulence
+  - ambulanc
+- id: receive
+  canonical: receive
+  category: General
+  misspellings:
+  - recieve

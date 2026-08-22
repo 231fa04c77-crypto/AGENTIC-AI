@@ -1,0 +1,52 @@
+version: 1
+category: Country
+entities:
+- id: india
+  canonical: India
+  category: Country
+  normalized: India
+  aliases:
+  - bharat
+  - hindustan
+  synonyms: []
+  abbreviations:
+  - IN
+  - IND
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: usa
+  canonical: United States
+  category: Country
+  normalized: United States
+  aliases:
+  - us
+  - usa
+  - america
+  synonyms: []
+  abbreviations:
+  - US
+  - USA
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: uk
+  canonical: United Kingdom
+  category: Country
+  normalized: United Kingdom
+  aliases:
+  - britain
+  - england
+  synonyms: []
+  abbreviations:
+  - UK
+  - GB
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []

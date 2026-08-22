@@ -1,0 +1,118 @@
+version: 1
+category: laboratory
+entries:
+- id: cbc
+  canonical: Complete Blood Count
+  category: laboratory
+  synonyms:
+  - blood count
+  - complete blood count
+  - full blood count
+  - cbc
+  aliases: []
+  abbreviations:
+  - CBC
+  misspellings: []
+  plurals: []
+- id: glucose
+  canonical: Blood Glucose
+  category: laboratory
+  synonyms:
+  - sugar test
+  - blood sugar test
+  - glucose test
+  aliases:
+  - blood sugar
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: ecg
+  canonical: Electrocardiogram
+  category: laboratory
+  synonyms:
+  - heart test
+  - heart tracing
+  - ekg
+  - ecg
+  aliases: []
+  abbreviations:
+  - ECG
+  - EKG
+  misspellings: []
+  plurals: []
+- id: mri
+  canonical: Magnetic Resonance Imaging
+  category: laboratory
+  synonyms:
+  - mri scan
+  - mri
+  aliases: []
+  abbreviations:
+  - MRI
+  misspellings: []
+  plurals: []
+- id: ct
+  canonical: Computed Tomography
+  category: laboratory
+  synonyms:
+  - ct scan
+  - cat scan
+  - ct
+  aliases: []
+  abbreviations:
+  - CT
+  misspellings: []
+  plurals: []
+- id: xray
+  canonical: X-Ray
+  category: laboratory
+  synonyms:
+  - x ray
+  - radiograph
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: imaging
+  canonical: Imaging Study
+  category: laboratory
+  synonyms:
+  - scan
+  - body scan
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: hba1c
+  canonical: HbA1c
+  category: laboratory
+  synonyms:
+  - a1c test
+  - glycated hemoglobin
+  aliases: []
+  abbreviations:
+  - HbA1c
+  misspellings: []
+  plurals: []
+- id: lft
+  canonical: LFT
+  category: laboratory
+  synonyms:
+  - liver function test
+  - liver test
+  aliases: []
+  abbreviations:
+  - LFT
+  misspellings: []
+  plurals: []
+- id: kft
+  canonical: KFT
+  category: laboratory
+  synonyms:
+  - kidney function test
+  - renal function test
+  aliases: []
+  abbreviations:
+  - KFT
+  misspellings: []
+  plurals: []

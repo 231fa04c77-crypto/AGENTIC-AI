@@ -1,0 +1,37 @@
+version: 1
+category: Symptom
+entries:
+- id: headache
+  canonical: Headache
+  category: Symptom
+  misspellings:
+  - headak
+  - headace
+  - hedache
+- id: fever
+  canonical: Fever
+  category: Symptom
+  misspellings:
+  - feverr
+  - fevor
+  - feaver
+- id: vomiting
+  canonical: Vomiting
+  category: Symptom
+  misspellings:
+  - vommiting
+  - vomitting
+  - vomitting
+- id: dizziness
+  canonical: Dizziness
+  category: Symptom
+  misspellings:
+  - dizzyness
+  - diziness
+  - dizzyiness
+- id: cough
+  canonical: Cough
+  category: Symptom
+  misspellings:
+  - coughh
+  - couph

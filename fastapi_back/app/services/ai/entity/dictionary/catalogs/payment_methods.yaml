@@ -1,0 +1,70 @@
+version: 1
+category: PaymentMethod
+entities:
+- id: upi
+  canonical: UPI
+  category: PaymentMethod
+  normalized: UPI
+  aliases:
+  - gpay
+  - phonepe
+  - paytm
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: card
+  canonical: Card
+  category: PaymentMethod
+  normalized: Card
+  aliases:
+  - credit card
+  - debit card
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: cash
+  canonical: Cash
+  category: PaymentMethod
+  normalized: Cash
+  aliases: []
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: netbanking
+  canonical: Net Banking
+  category: PaymentMethod
+  normalized: Net Banking
+  aliases:
+  - net banking
+  - online banking
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: wallet
+  canonical: Wallet
+  category: PaymentMethod
+  normalized: Wallet
+  aliases: []
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []

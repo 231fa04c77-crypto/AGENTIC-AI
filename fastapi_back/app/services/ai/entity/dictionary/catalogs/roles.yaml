@@ -1,0 +1,81 @@
+version: 1
+category: Role
+entities:
+- id: patient
+  canonical: Patient
+  category: Role
+  normalized: Patient
+  aliases:
+  - user
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: doctor
+  canonical: Doctor
+  category: Role
+  normalized: Doctor
+  aliases:
+  - physician
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: receptionist
+  canonical: Receptionist
+  category: Role
+  normalized: Receptionist
+  aliases: []
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: dean
+  canonical: Dean
+  category: Role
+  normalized: Dean
+  aliases:
+  - hospital admin
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: admin
+  canonical: Admin
+  category: Role
+  normalized: Admin
+  aliases:
+  - super admin
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: partner
+  canonical: Partner
+  category: Role
+  normalized: Partner
+  aliases:
+  - pharmacy partner
+  - lab partner
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []

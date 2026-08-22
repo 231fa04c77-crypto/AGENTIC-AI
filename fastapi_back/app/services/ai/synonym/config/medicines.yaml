@@ -1,0 +1,76 @@
+version: 1
+category: medicine
+entries:
+- id: paracetamol
+  canonical: Paracetamol
+  category: medicine
+  synonyms:
+  - acetaminophen
+  aliases:
+  - pcm
+  - dolo
+  - dolo 650
+  abbreviations:
+  - PCM
+  misspellings:
+  - paracetmol
+  - paracetamoll
+  plurals: []
+- id: ibuprofen
+  canonical: Ibuprofen
+  category: medicine
+  synonyms: []
+  aliases:
+  - brufen
+  abbreviations: []
+  misspellings:
+  - ibuprofin
+  plurals: []
+- id: metformin
+  canonical: Metformin
+  category: medicine
+  synonyms: []
+  aliases:
+  - glycomet
+  abbreviations: []
+  misspellings:
+  - metformine
+  plurals: []
+- id: amoxicillin
+  canonical: Amoxicillin
+  category: medicine
+  synonyms: []
+  aliases:
+  - amox
+  abbreviations: []
+  misspellings:
+  - amoxycillin
+  plurals: []
+- id: aspirin
+  canonical: Aspirin
+  category: medicine
+  synonyms: []
+  aliases: []
+  abbreviations:
+  - ASA
+  misspellings: []
+  plurals: []
+- id: omeprazole
+  canonical: Omeprazole
+  category: medicine
+  synonyms: []
+  aliases:
+  - omez
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: cetirizine
+  canonical: Cetirizine
+  category: medicine
+  synonyms: []
+  aliases:
+  - cetzine
+  abbreviations: []
+  misspellings:
+  - cetrizine
+  plurals: []

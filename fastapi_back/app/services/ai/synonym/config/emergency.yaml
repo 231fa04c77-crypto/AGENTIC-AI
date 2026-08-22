@@ -1,0 +1,44 @@
+version: 1
+category: emergency
+entries:
+- id: emergency
+  canonical: Emergency
+  category: emergency
+  synonyms:
+  - urgent help
+  - medical emergency
+  - casualty
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: ambulance
+  canonical: Ambulance
+  category: emergency
+  synonyms:
+  - need ambulance
+  - call ambulance
+  aliases: []
+  abbreviations: []
+  misspellings:
+  - ambulence
+  plurals: []
+- id: heart_attack
+  canonical: Heart Attack
+  category: emergency
+  synonyms:
+  - cardiac arrest symptoms
+  - gunde attack
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: stroke
+  canonical: Stroke
+  category: emergency
+  synonyms:
+  - brain attack
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []

@@ -1,0 +1,48 @@
+version: 1
+category: Medicine
+entries:
+- id: pcm
+  abbreviation: PCM
+  expanded: Paracetamol
+  canonical: Paracetamol
+  category: Medicine
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: ors
+  abbreviation: ORS
+  expanded: Oral Rehydration Solution
+  canonical: Oral Rehydration Solution
+  category: Medicine
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: iv
+  abbreviation: IV
+  expanded: Intravenous
+  canonical: Intravenous
+  category: Medicine
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: im
+  abbreviation: IM
+  expanded: Intramuscular
+  canonical: Intramuscular
+  category: Medicine
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: po
+  abbreviation: PO
+  expanded: Oral Administration
+  canonical: Oral Administration
+  category: Medicine
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []

@@ -1,0 +1,36 @@
+version: 1
+category: Disease
+entries:
+- id: diabetes
+  canonical: Diabetes
+  category: Disease
+  misspellings:
+  - diabtes
+  - diabetis
+  - diabities
+- id: hypertension
+  canonical: Hypertension
+  category: Disease
+  misspellings:
+  - hypretension
+  - hypertention
+  - hypertensoin
+- id: asthma
+  canonical: Asthma
+  category: Disease
+  misspellings:
+  - asthama
+  - asma
+  - asthmaa
+- id: migraine
+  canonical: Migraine
+  category: Disease
+  misspellings:
+  - migrane
+  - migrain
+- id: anemia
+  canonical: Anemia
+  category: Disease
+  misspellings:
+  - aneamia
+  - anaemia

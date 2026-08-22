@@ -1,0 +1,144 @@
+version: 1
+category: Relationship
+entities:
+- id: mother
+  canonical: Mother
+  category: Relationship
+  normalized: Mother
+  aliases:
+  - mom
+  - mummy
+  - maa
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: father
+  canonical: Father
+  category: Relationship
+  normalized: Father
+  aliases:
+  - dad
+  - daddy
+  - papa
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: spouse
+  canonical: Spouse
+  category: Relationship
+  normalized: Spouse
+  aliases:
+  - wife
+  - husband
+  - partner
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: son
+  canonical: Son
+  category: Relationship
+  normalized: Son
+  aliases:
+  - my son
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: daughter
+  canonical: Daughter
+  category: Relationship
+  normalized: Daughter
+  aliases:
+  - my daughter
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: brother
+  canonical: Brother
+  category: Relationship
+  normalized: Brother
+  aliases:
+  - bhai
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: sister
+  canonical: Sister
+  category: Relationship
+  normalized: Sister
+  aliases:
+  - sis
+  - didi
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: self
+  canonical: Self
+  category: Relationship
+  normalized: Self
+  aliases:
+  - myself
+  - me
+  - for me
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: friend
+  canonical: Friend
+  category: Relationship
+  normalized: Friend
+  aliases: []
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: grandparent
+  canonical: Grandparent
+  category: Relationship
+  normalized: Grandparent
+  aliases:
+  - grandmother
+  - grandfather
+  - grandma
+  - grandpa
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []

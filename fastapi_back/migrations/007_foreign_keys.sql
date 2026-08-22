@@ -1,0 +1,2 @@
+-- Referential integrity (skipped automatically when orphan rows exist — see migration_runner)
+-- Constraints are added via app/db/schema_hardening.py when data is clean.

@@ -1,0 +1,45 @@
+version: 1
+category: Medical
+entries:
+- id: prescription
+  canonical: prescription
+  category: Medical
+  misspellings:
+  - presciption
+  - prescripion
+- id: diagnosis
+  canonical: diagnosis
+  category: Medical
+  misspellings:
+  - diagnonis
+  - diagonsis
+- id: symptoms
+  canonical: symptoms
+  category: Medical
+  misspellings:
+  - symptons
+  - symtoms
+- id: cbc
+  canonical: CBC
+  category: Medical
+  misspellings:
+  - cb c
+  - c b c
+- id: hba1c
+  canonical: HbA1c
+  category: Medical
+  misspellings:
+  - hba1 c
+  - hba 1c
+- id: ecg
+  canonical: ECG
+  category: Medical
+  misspellings:
+  - ecgg
+  - e c g
+- id: mri
+  canonical: MRI
+  category: Medical
+  misspellings:
+  - mri scan
+  - m r i

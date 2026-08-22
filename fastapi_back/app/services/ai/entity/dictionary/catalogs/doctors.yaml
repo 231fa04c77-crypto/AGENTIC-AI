@@ -1,0 +1,75 @@
+version: 1
+category: Doctor
+entities:
+- id: doc_ravi_kumar
+  canonical: Dr. Ravi Kumar
+  category: Doctor
+  normalized: Dr. Ravi Kumar
+  aliases:
+  - Dr Ravi
+  - Ravi
+  - Doctor Ravi
+  - Dr. Ravi Kumar
+  - ravi kumar
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    doctor_id: doc_ravi_kumar
+    hospital_id: demo_city_hospital
+    department: Dermatology
+    specialty: Dermatologist
+    experience_years: 12
+    languages:
+    - en
+    - hi
+    - te
+  aliases_hi: []
+  aliases_te: []
+- id: doc_anita_sharma
+  canonical: Dr. Anita Sharma
+  category: Doctor
+  normalized: Dr. Anita Sharma
+  aliases:
+  - Dr Sharma
+  - Anita Sharma
+  - Doctor Anita
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    doctor_id: doc_anita_sharma
+    hospital_id: demo_apollo_seed
+    department: Cardiology
+    specialty: Cardiologist
+    experience_years: 15
+    languages:
+    - en
+    - hi
+  aliases_hi: []
+  aliases_te: []
+- id: doc_suresh_rao
+  canonical: Dr. Suresh Rao
+  category: Doctor
+  normalized: Dr. Suresh Rao
+  aliases:
+  - Dr Rao
+  - Suresh Rao
+  - Doctor Rao
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    doctor_id: doc_suresh_rao
+    hospital_id: demo_care_branch
+    department: General Medicine
+    specialty: General Physician
+    experience_years: 8
+    languages:
+    - en
+    - te
+  aliases_hi: []
+  aliases_te: []

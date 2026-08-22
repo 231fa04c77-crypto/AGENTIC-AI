@@ -1,0 +1,116 @@
+version: 1
+category: EmergencyKeyword
+entities:
+- id: ek_chest_pain
+  canonical: Chest Pain
+  category: EmergencyKeyword
+  normalized: Chest Pain
+  aliases:
+  - heart attack
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    emergency: true
+  aliases_hi: []
+  aliases_te: []
+- id: ek_stroke
+  canonical: Stroke
+  category: EmergencyKeyword
+  normalized: Stroke
+  aliases:
+  - brain attack
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    emergency: true
+  aliases_hi: []
+  aliases_te: []
+- id: ek_unconscious
+  canonical: Unconscious
+  category: EmergencyKeyword
+  normalized: Unconscious
+  aliases:
+  - passed out
+  - not responding
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    emergency: true
+  aliases_hi: []
+  aliases_te: []
+- id: ek_overdose
+  canonical: Overdose
+  category: EmergencyKeyword
+  normalized: Overdose
+  aliases:
+  - poisoning
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    emergency: true
+  aliases_hi: []
+  aliases_te: []
+- id: ek_seizure
+  canonical: Seizure
+  category: EmergencyKeyword
+  normalized: Seizure
+  aliases:
+  - fit
+  - convulsion
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    emergency: true
+  aliases_hi: []
+  aliases_te: []
+- id: ek_severe_bleeding
+  canonical: Severe Bleeding
+  category: EmergencyKeyword
+  normalized: Severe Bleeding
+  aliases: []
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    emergency: true
+  aliases_hi: []
+  aliases_te: []
+- id: ek_choking
+  canonical: Choking
+  category: EmergencyKeyword
+  normalized: Choking
+  aliases: []
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    emergency: true
+  aliases_hi: []
+  aliases_te: []
+- id: ek_suicidal
+  canonical: Suicidal
+  category: EmergencyKeyword
+  normalized: Suicidal
+  aliases:
+  - suicide
+  - want to die
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    emergency: true
+  aliases_hi: []
+  aliases_te: []

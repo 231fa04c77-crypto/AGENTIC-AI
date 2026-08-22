@@ -1,0 +1,21 @@
+version: 1
+category: spelling
+entries:
+- id: spell_receive
+  canonical: Receive
+  category: general
+  synonyms: []
+  aliases: []
+  abbreviations: []
+  misspellings:
+  - recieve
+  plurals: []
+- id: spell_lab
+  canonical: Laboratory
+  category: laboratory
+  synonyms: []
+  aliases: []
+  abbreviations: []
+  misspellings:
+  - labratory
+  plurals: []

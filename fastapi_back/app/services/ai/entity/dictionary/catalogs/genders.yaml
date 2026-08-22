@@ -1,0 +1,47 @@
+version: 1
+category: Gender
+entities:
+- id: male
+  canonical: Male
+  category: Gender
+  normalized: Male
+  aliases:
+  - m
+  - man
+  - boy
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: female
+  canonical: Female
+  category: Gender
+  normalized: Female
+  aliases:
+  - f
+  - woman
+  - girl
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: other
+  canonical: Other
+  category: Gender
+  normalized: Other
+  aliases:
+  - non-binary
+  - prefer not to say
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []

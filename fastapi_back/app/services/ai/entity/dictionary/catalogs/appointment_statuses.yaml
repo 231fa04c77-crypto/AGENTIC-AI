@@ -1,0 +1,84 @@
+version: 1
+category: AppointmentStatus
+entities:
+- id: booked
+  canonical: Booked
+  category: AppointmentStatus
+  normalized: Booked
+  aliases:
+  - scheduled
+  - confirmed
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: completed
+  canonical: Completed
+  category: AppointmentStatus
+  normalized: Completed
+  aliases:
+  - done
+  - finished
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: cancelled
+  canonical: Cancelled
+  category: AppointmentStatus
+  normalized: Cancelled
+  aliases:
+  - canceled
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: no_show
+  canonical: No Show
+  category: AppointmentStatus
+  normalized: No Show
+  aliases:
+  - missed
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: in_progress
+  canonical: In Progress
+  category: AppointmentStatus
+  normalized: In Progress
+  aliases:
+  - ongoing
+  - with doctor
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: pending
+  canonical: Pending
+  category: AppointmentStatus
+  normalized: Pending
+  aliases:
+  - awaiting
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []

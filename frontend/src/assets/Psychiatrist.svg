@@ -1,0 +1,14 @@
+<svg width="126" height="126" viewBox="0 0 126 126" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="63" cy="63" r="63" fill="url(#paint0_linear_psych)"/>
+<circle cx="63" cy="55" r="8" fill="#6B46C1"/>
+<path d="M50 75C50 68 56 63 63 63C70 63 76 68 76 75" stroke="#6B46C1" stroke-width="4" stroke-linecap="round"/>
+<path d="M48 85L58 80M78 85L68 80" stroke="#6B46C1" stroke-width="3" stroke-linecap="round"/>
+<circle cx="58" cy="52" r="2" fill="#FFFFFF"/>
+<circle cx="68" cy="52" r="2" fill="#FFFFFF"/>
+<defs>
+<linearGradient id="paint0_linear_psych" x1="63" y1="0" x2="63" y2="126" gradientUnits="userSpaceOnUse">
+<stop stop-color="#AFC1DC"/>
+<stop offset="1" stop-color="#E2E5ED"/>
+</linearGradient>
+</defs>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="126" height="126" viewBox="0 0 126 126" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="63" cy="63" r="63" fill="url(#paint0_linear_cardio)"/>
+<path d="M63 45C58 45 54 49 54 54C54 59 58 63 63 63C68 63 72 59 72 54C72 49 68 45 63 45Z" fill="#FF6B6B"/>
+<path d="M45 54C45 49 49 45 54 45C59 45 63 49 63 54L63 72C63 77 59 81 54 81C49 81 45 77 45 72L45 54Z" fill="#FF6B6B"/>
+<path d="M81 54C81 49 77 45 72 45C67 45 63 49 63 54L63 72C63 77 67 81 72 81C77 81 81 77 81 72L81 54Z" fill="#FF6B6B"/>
+<defs>
+<linearGradient id="paint0_linear_cardio" x1="63" y1="0" x2="63" y2="126" gradientUnits="userSpaceOnUse">
+<stop stop-color="#AFC1DC"/>
+<stop offset="1" stop-color="#E2E5ED"/>
+</linearGradient>
+</defs>
+</svg>

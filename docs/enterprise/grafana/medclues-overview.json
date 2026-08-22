@@ -1,0 +1,44 @@
+{
+  "annotations": {
+    "list": [
+      {
+        "builtIn": 1,
+        "datasource": { "type": "grafana", "uid": "-- Grafana --" },
+        "type": "dashboard"
+      }
+    ]
+  },
+  "editable": true,
+  "fiscalYearStartMonth": 0,
+  "graphTooltip": 0,
+  "id": null,
+  "links": [],
+  "panels": [
+    {
+      "title": "HTTP request rate",
+      "type": "timeseries",
+      "gridPos": { "h": 8, "w": 12, "x": 0, "y": 0 },
+      "targets": [
+        {
+          "expr": "sum(rate(http_requests_total[1m]))",
+          "legendFormat": "rps"
+        }
+      ]
+    },
+    {
+      "title": "Notes",
+      "type": "text",
+      "gridPos": { "h": 4, "w": 12, "x": 12, "y": 0 },
+      "options": {
+        "content": "Import after Prometheus scrapes MedClues `/metrics`. Also watch `/api/ops/slo` for Redis cache hit ratio and circuit breakers.",
+        "mode": "markdown"
+      }
+    }
+  ],
+  "schemaVersion": 39,
+  "tags": ["medclues"],
+  "timezone": "browser",
+  "title": "MedClues API Overview",
+  "uid": "medclues-api-overview",
+  "version": 1
+}

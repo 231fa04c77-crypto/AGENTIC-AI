@@ -1,0 +1,359 @@
+{
+    "standalone_doctors": [
+        {
+            "id": 67,
+            "name": "Dr. P. Venkata Ramana Murthy",
+            "speciality": "General Surgeon",
+            "image": null
+        },
+        {
+            "id": 70,
+            "name": "Dr. Ramesh Babu",
+            "speciality": "Cardiologist",
+            "image": null
+        },
+        {
+            "id": 76,
+            "name": "Dr. V. Suresh Kumar",
+            "speciality": "General Physician",
+            "image": null
+        },
+        {
+            "id": 83,
+            "name": "Dr. L. Kavitha",
+            "speciality": "Gynecologist",
+            "image": null
+        },
+        {
+            "id": 74,
+            "name": "Dr. M. Praveen Kumar",
+            "speciality": "Cardiologist",
+            "image": null
+        },
+        {
+            "id": 85,
+            "name": "Dr. K. Ravi Kumar",
+            "speciality": "Orthopedics",
+            "image": null
+        },
+        {
+            "id": 89,
+            "name": "Dr. T. Swapna",
+            "speciality": "Dermatologist",
+            "image": null
+        },
+        {
+            "id": 68,
+            "name": "Dr. K. Sai Sandeep",
+            "speciality": "Cardiologist",
+            "image": null
+        },
+        {
+            "id": 87,
+            "name": "Dr. S. Naveen Reddy",
+            "speciality": "General Physician",
+            "image": null
+        },
+        {
+            "id": 78,
+            "name": "Dr. N. Ravi Teja",
+            "speciality": "Orthopedic Surgeon",
+            "image": null
+        },
+        {
+            "id": 71,
+            "name": "Dr. P. Lakshmi Narayana",
+            "speciality": "Orthopedic Surgeon",
+            "image": null
+        },
+        {
+            "id": 86,
+            "name": "Dr. P. Anjali",
+            "speciality": "Pediatrician",
+            "image": null
+        },
+        {
+            "id": 69,
+            "name": "Dr. P. Padma",
+            "speciality": "Gynecologist",
+            "image": null
+        },
+        {
+            "id": 82,
+            "name": "Dr. R. Suresh Babu",
+            "speciality": "Cardiologist",
+            "image": null
+        },
+        {
+            "id": 105,
+            "name": "Dr. Kishore Reddy",
+            "speciality": "Neurologist",
+            "image": null
+        },
+        {
+            "id": 88,
+            "name": "Dr. B. Harish Kumar",
+            "speciality": "General Surgeon",
+            "image": null
+        },
+        {
+            "id": 75,
+            "name": "Dr. S. Anitha",
+            "speciality": "Dermatologist",
+            "image": null
+        },
+        {
+            "id": 90,
+            "name": "Dr. D. Kiran Kumar",
+            "speciality": "Cardiologist",
+            "image": null
+        },
+        {
+            "id": 72,
+            "name": "Dr. K. Sridevi",
+            "speciality": "Pediatrician",
+            "image": null
+        },
+        {
+            "id": 84,
+            "name": "Dr. M. Vamsi Krishna",
+            "speciality": "Neurologist",
+            "image": null
+        },
+        {
+            "id": 102,
+            "name": "Dr. Kavita Nair",
+            "speciality": "Ophthalmologist",
+            "image": null
+        },
+        {
+            "id": 94,
+            "name": "M.Vyshnavi",
+            "speciality": "Dermatologist",
+            "image": null
+        },
+        {
+            "id": 73,
+            "name": "Dr. B. Krishna Mohan",
+            "speciality": "Neurologist",
+            "image": null
+        },
+        {
+            "id": 104,
+            "name": "Dr. Arjun Reddy",
+            "speciality": "General physician",
+            "image": null
+        },
+        {
+            "id": 92,
+            "name": "Dr. Shaik Javed",
+            "speciality": "General physician",
+            "image": null
+        }
+    ],
+    "hospital_doctors": [
+        {
+            "id": 36,
+            "name": "Dr. V. Suresh Kumar",
+            "speciality": "General Physician",
+            "hospital": "Capital Hospitals",
+            "image": null
+        },
+        {
+            "id": 43,
+            "name": "Dr. L. Kavitha",
+            "speciality": "Gynecologist",
+            "hospital": "CARE Hospitals",
+            "image": null
+        },
+        {
+            "id": 38,
+            "name": "Dr. N. Ravi Teja",
+            "speciality": "Orthopedic Surgeon",
+            "hospital": "Capital Hospitals",
+            "image": null
+        },
+        {
+            "id": 46,
+            "name": "Dr. P. Anjali",
+            "speciality": "Pediatrician",
+            "hospital": "Manipal Hospitals",
+            "image": null
+        },
+        {
+            "id": 52,
+            "name": "Dr. Arun Kumar B",
+            "speciality": "Cardiologist",
+            "hospital": "CARE Hospitals",
+            "image": null
+        },
+        {
+            "id": 51,
+            "name": "Dr. Kavita Rao A",
+            "speciality": "Cardiologist",
+            "hospital": "CARE Hospitals",
+            "image": null
+        },
+        {
+            "id": 45,
+            "name": "Dr. K. Ravi Kumar",
+            "speciality": "Orthopedic Surgeon",
+            "hospital": "Manipal Hospitals",
+            "image": null
+        },
+        {
+            "id": 35,
+            "name": "Dr. S. Anitha",
+            "speciality": "Dermatologist",
+            "hospital": "Apollo Hospitals",
+            "image": null
+        },
+        {
+            "id": 50,
+            "name": "Dr. D. Kiran Kumar",
+            "speciality": "Cardiologist",
+            "hospital": "NRI General Hospital",
+            "image": null
+        },
+        {
+            "id": 44,
+            "name": "Dr. M. Vamsi Krishna",
+            "speciality": "Neurologist",
+            "hospital": "CARE Hospitals",
+            "image": null
+        },
+        {
+            "id": 33,
+            "name": "Dr. B. Krishna Mohan",
+            "speciality": "Neurologist",
+            "hospital": "Apollo Hospitals",
+            "image": null
+        },
+        {
+            "id": 47,
+            "name": "Dr. S. Naveen Reddy",
+            "speciality": "General Physician",
+            "hospital": "Manipal Hospitals",
+            "image": null
+        },
+        {
+            "id": 28,
+            "name": "Dr. K. Sai Sandeep",
+            "speciality": "Cardiologist",
+            "hospital": "Andhra Hospitals",
+            "image": null
+        },
+        {
+            "id": 49,
+            "name": "Dr. T. Swapna",
+            "speciality": "Dermatologist",
+            "hospital": "NRI General Hospital",
+            "image": null
+        },
+        {
+            "id": 30,
+            "name": "Dr. Ramesh Babu",
+            "speciality": "Cardiologist",
+            "hospital": "Aster Ramesh Hospitals",
+            "image": null
+        },
+        {
+            "id": 27,
+            "name": "Dr. P. Venkata Ramana Murthy",
+            "speciality": "General Surgeon",
+            "hospital": "Andhra Hospitals",
+            "image": null
+        },
+        {
+            "id": 32,
+            "name": "Dr. K. Sridevi",
+            "speciality": "Pediatrician",
+            "hospital": "Aster Ramesh Hospitals",
+            "image": null
+        },
+        {
+            "id": 29,
+            "name": "Dr. P. Padma",
+            "speciality": "Gynecologist",
+            "hospital": "Andhra Hospitals",
+            "image": null
+        },
+        {
+            "id": 42,
+            "name": "Dr. R. Suresh Babu",
+            "speciality": "Cardiologist",
+            "hospital": "CARE Hospitals",
+            "image": null
+        },
+        {
+            "id": 37,
+            "name": "Dr. R. Haritha",
+            "speciality": "Gynecologist",
+            "hospital": "Capital Hospitals",
+            "image": null
+        },
+        {
+            "id": 48,
+            "name": "Dr. B. Harish Kumar",
+            "speciality": "General Surgeon",
+            "hospital": "NRI General Hospital",
+            "image": null
+        },
+        {
+            "id": 31,
+            "name": "Dr. P. Lakshmi Narayana",
+            "speciality": "Orthopedic Surgeon",
+            "hospital": "Aster Ramesh Hospitals",
+            "image": null
+        },
+        {
+            "id": 78,
+            "name": "Dr. Lakshmi Prasad MD",
+            "speciality": "Dermatologist",
+            "hospital": "Bone & Joint Center",
+            "image": null
+        },
+        {
+            "id": 70,
+            "name": "Dr. Vikram Singh B",
+            "speciality": "Pediatrician",
+            "hospital": "Sri Hospitals",
+            "image": null
+        },
+        {
+            "id": 69,
+            "name": "Dr. Anjali Gupta A",
+            "speciality": "Pediatrician",
+            "hospital": "Sri Hospitals",
+            "image": null
+        },
+        {
+            "id": 75,
+            "name": "Dr. Priya Patel MBBS",
+            "speciality": "Dermatologist",
+            "hospital": "Heart Care Hospital",
+            "image": null
+        },
+        {
+            "id": 77,
+            "name": "Dr. Rahul Dravid MBBS",
+            "speciality": "ENT",
+            "hospital": "Bone & Joint Center",
+            "image": null
+        },
+        {
+            "id": 76,
+            "name": "Dr. Rahul Dravid MS",
+            "speciality": "Gastroenterologist",
+            "hospital": "Heart Care Hospital",
+            "image": null
+        },
+        {
+            "id": 34,
+            "name": "Dr. M. Praveen Kumar",
+            "speciality": "Cardiologist",
+            "hospital": "Apollo Hospitals",
+            "image": null
+        }
+    ]
+}

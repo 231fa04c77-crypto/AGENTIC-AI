@@ -1,0 +1,60 @@
+version: 1
+category: Vitals
+entries:
+- id: bp
+  abbreviation: BP
+  expanded: Blood Pressure
+  canonical: Blood Pressure
+  category: Vitals
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: hr
+  abbreviation: HR
+  expanded: Heart Rate
+  canonical: Heart Rate
+  category: Vitals
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: rr
+  abbreviation: RR
+  expanded: Respiratory Rate
+  canonical: Respiratory Rate
+  category: Vitals
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: spo2
+  abbreviation: SpO2
+  expanded: Oxygen Saturation
+  canonical: Oxygen Saturation
+  category: Vitals
+  aliases:
+  - spo2
+  - SPO2
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: temp
+  abbreviation: Temp
+  expanded: Temperature
+  canonical: Temperature
+  category: Vitals
+  aliases:
+  - TMP
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: bmi
+  abbreviation: BMI
+  expanded: Body Mass Index
+  canonical: Body Mass Index
+  category: Vitals
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []

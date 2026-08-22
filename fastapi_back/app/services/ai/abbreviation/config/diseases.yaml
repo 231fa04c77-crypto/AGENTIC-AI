@@ -1,0 +1,48 @@
+version: 1
+category: Disease
+entries:
+- id: htn
+  abbreviation: HTN
+  expanded: Hypertension
+  canonical: Hypertension
+  category: Disease
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: dm
+  abbreviation: DM
+  expanded: Diabetes Mellitus
+  canonical: Diabetes Mellitus
+  category: Disease
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: cad
+  abbreviation: CAD
+  expanded: Coronary Artery Disease
+  canonical: Coronary Artery Disease
+  category: Disease
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: copd
+  abbreviation: COPD
+  expanded: Chronic Obstructive Pulmonary Disease
+  canonical: Chronic Obstructive Pulmonary Disease
+  category: Disease
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: ckd
+  abbreviation: CKD
+  expanded: Chronic Kidney Disease
+  canonical: Chronic Kidney Disease
+  category: Disease
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []

@@ -1,0 +1,89 @@
+version: 1
+category: Language
+entities:
+- id: lang_en
+  canonical: English
+  category: Language
+  normalized: English
+  aliases:
+  - en
+  synonyms: []
+  abbreviations:
+  - en
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: lang_hi
+  canonical: Hindi
+  category: Language
+  normalized: Hindi
+  aliases:
+  - hi
+  - hindi
+  synonyms: []
+  abbreviations:
+  - hi
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: lang_te
+  canonical: Telugu
+  category: Language
+  normalized: Telugu
+  aliases:
+  - te
+  - telugu
+  synonyms: []
+  abbreviations:
+  - te
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: lang_ta
+  canonical: Tamil
+  category: Language
+  normalized: Tamil
+  aliases:
+  - ta
+  synonyms: []
+  abbreviations:
+  - ta
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: lang_kn
+  canonical: Kannada
+  category: Language
+  normalized: Kannada
+  aliases:
+  - kn
+  synonyms: []
+  abbreviations:
+  - kn
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: lang_mr
+  canonical: Marathi
+  category: Language
+  normalized: Marathi
+  aliases:
+  - mr
+  synonyms: []
+  abbreviations:
+  - mr
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []

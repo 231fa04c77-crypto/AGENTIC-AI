@@ -1,0 +1,187 @@
+version: 1
+category: Medicine
+entities:
+- id: paracetamol
+  canonical: Paracetamol
+  category: Medicine
+  normalized: Paracetamol
+  aliases:
+  - acetaminophen
+  - pcm
+  synonyms:
+  - painkiller
+  abbreviations:
+  - PCM
+  misspellings:
+  - paracetmol
+  - paracetamoll
+  - paracetmol
+  plurals: []
+  metadata:
+    strengths:
+    - 500 mg
+    - 650 mg
+    forms:
+    - Tablet
+    - Syrup
+    - Injection
+  aliases_hi: []
+  aliases_te: []
+- id: ibuprofen
+  canonical: Ibuprofen
+  category: Medicine
+  normalized: Ibuprofen
+  aliases:
+  - brufen
+  synonyms: []
+  abbreviations: []
+  misspellings:
+  - ibuprofin
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: metformin
+  canonical: Metformin
+  category: Medicine
+  normalized: Metformin
+  aliases:
+  - glycomet
+  synonyms: []
+  abbreviations: []
+  misspellings:
+  - metformine
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: amoxicillin
+  canonical: Amoxicillin
+  category: Medicine
+  normalized: Amoxicillin
+  aliases:
+  - amox
+  synonyms: []
+  abbreviations: []
+  misspellings:
+  - amoxycillin
+  - amoxicilin
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: aspirin
+  canonical: Aspirin
+  category: Medicine
+  normalized: Aspirin
+  aliases:
+  - asa
+  - acetylsalicylic acid
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: omeprazole
+  canonical: Omeprazole
+  category: Medicine
+  normalized: Omeprazole
+  aliases:
+  - omez
+  - prilosec
+  synonyms: []
+  abbreviations: []
+  misspellings:
+  - omeprazol
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: cetirizine
+  canonical: Cetirizine
+  category: Medicine
+  normalized: Cetirizine
+  aliases:
+  - cetzine
+  - zyrtec
+  synonyms: []
+  abbreviations: []
+  misspellings:
+  - cetrizine
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: azithromycin
+  canonical: Azithromycin
+  category: Medicine
+  normalized: Azithromycin
+  aliases:
+  - azithral
+  synonyms: []
+  abbreviations: []
+  misspellings:
+  - azithromyacin
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: atorvastatin
+  canonical: Atorvastatin
+  category: Medicine
+  normalized: Atorvastatin
+  aliases:
+  - atorva
+  - lipitor
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: amlodipine
+  canonical: Amlodipine
+  category: Medicine
+  normalized: Amlodipine
+  aliases:
+  - amlopin
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: pantoprazole
+  canonical: Pantoprazole
+  category: Medicine
+  normalized: Pantoprazole
+  aliases:
+  - pantocid
+  - pan
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: dolo
+  canonical: Dolo 650
+  category: Medicine
+  normalized: Dolo 650
+  aliases:
+  - dolo 650
+  - dolo650
+  synonyms:
+  - paracetamol
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    brand: true
+  aliases_hi: []
+  aliases_te: []

@@ -1,0 +1,39 @@
+# Prometheus recording / alerting rules — MedClues SLOs
+# Load via prometheus.yml: rule_files: ["slo_rules.yml"]
+
+groups:
+  - name: medclues_slo
+    interval: 30s
+    rules:
+      - record: job:http_request_success_ratio:5m
+        expr: |
+          sum(rate(http_requests_total{status!~"5.."}[5m]))
+          /
+          clamp_min(sum(rate(http_requests_total[5m])), 1e-9)
+
+      - record: job:http_request_p95_seconds:5m
+        expr: |
+          histogram_quantile(
+            0.95,
+            sum(rate(http_request_duration_seconds_bucket[5m])) by (le)
+          )
+
+      - alert: MedCluesAvailabilityBurn
+        expr: job:http_request_success_ratio:5m < 0.995
+        for: 10m
+        labels:
+          severity: warning
+          slo: availability
+        annotations:
+          summary: "API success ratio below 99.5% (5m)"
+          description: "Check /health/deep and dependency pools."
+
+      - alert: MedCluesLatencyBurn
+        expr: job:http_request_p95_seconds:5m > 0.8
+        for: 15m
+        labels:
+          severity: warning
+          slo: latency
+        annotations:
+          summary: "HTTP p95 above 800ms"
+          description: "Investigate booking/queue hot paths and DB pool."

@@ -1,0 +1,110 @@
+version: 1
+category: Department
+entities:
+- id: dept_dermatology
+  canonical: Dermatology
+  category: Department
+  normalized: Dermatology
+  aliases:
+  - skin department
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: dept_cardiology
+  canonical: Cardiology
+  category: Department
+  normalized: Cardiology
+  aliases:
+  - heart department
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: dept_emergency
+  canonical: Emergency
+  category: Department
+  normalized: Emergency
+  aliases:
+  - casualty
+  - er
+  - a&e
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: dept_pediatrics
+  canonical: Pediatrics
+  category: Department
+  normalized: Pediatrics
+  aliases:
+  - paediatrics
+  - child ward
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: dept_orthopedics
+  canonical: Orthopedics
+  category: Department
+  normalized: Orthopedics
+  aliases:
+  - ortho department
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: dept_radiology
+  canonical: Radiology
+  category: Department
+  normalized: Radiology
+  aliases:
+  - imaging
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: dept_lab
+  canonical: Laboratory
+  category: Department
+  normalized: Laboratory
+  aliases:
+  - pathology
+  - diagnostics
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: dept_pharmacy
+  canonical: Pharmacy
+  category: Department
+  normalized: Pharmacy
+  aliases: []
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []

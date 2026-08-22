@@ -1,0 +1,50 @@
+version: 1
+category: Radiology
+entries:
+- id: mri
+  abbreviation: MRI
+  expanded: Magnetic Resonance Imaging
+  canonical: Magnetic Resonance Imaging
+  category: Radiology
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: ct
+  abbreviation: CT
+  expanded: Computed Tomography
+  canonical: Computed Tomography
+  category: Radiology
+  aliases:
+  - CAT
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: usg
+  abbreviation: USG
+  expanded: Ultrasonography
+  canonical: Ultrasonography
+  category: Radiology
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: pet
+  abbreviation: PET
+  expanded: Positron Emission Tomography
+  canonical: Positron Emission Tomography
+  category: Radiology
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: xr
+  abbreviation: XR
+  expanded: X-Ray
+  canonical: X-Ray
+  category: Radiology
+  aliases:
+  - XRAY
+  contexts: []
+  aliases_hi: []
+  aliases_te: []

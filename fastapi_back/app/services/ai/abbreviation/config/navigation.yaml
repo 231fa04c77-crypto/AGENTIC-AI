@@ -1,0 +1,22 @@
+version: 1
+category: Navigation
+entries:
+- id: rx
+  abbreviation: Rx
+  expanded: Prescription
+  canonical: Prescription
+  category: Navigation
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: appt
+  abbreviation: Appt
+  expanded: Appointment
+  canonical: Appointment
+  category: Navigation
+  aliases:
+  - APT
+  contexts: []
+  aliases_hi: []
+  aliases_te: []

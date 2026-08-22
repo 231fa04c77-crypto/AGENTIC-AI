@@ -1,0 +1,56 @@
+version: 1
+category: MedicineBrand
+entities:
+- id: crocin
+  canonical: Crocin
+  category: MedicineBrand
+  normalized: Crocin
+  aliases:
+  - crocin advance
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    generic: Paracetamol
+  aliases_hi: []
+  aliases_te: []
+- id: combiflam
+  canonical: Combiflam
+  category: MedicineBrand
+  normalized: Combiflam
+  aliases: []
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    generic: Ibuprofen+Paracetamol
+  aliases_hi: []
+  aliases_te: []
+- id: augmentin
+  canonical: Augmentin
+  category: MedicineBrand
+  normalized: Augmentin
+  aliases: []
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    generic: Amoxicillin+Clavulanate
+  aliases_hi: []
+  aliases_te: []
+- id: shelcal
+  canonical: Shelcal
+  category: MedicineBrand
+  normalized: Shelcal
+  aliases:
+  - calcium tablet
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []

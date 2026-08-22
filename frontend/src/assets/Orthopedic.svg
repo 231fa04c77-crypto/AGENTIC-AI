@@ -1,0 +1,14 @@
+<svg width="126" height="126" viewBox="0 0 126 126" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="63" cy="63" r="63" fill="url(#paint0_linear_ortho)"/>
+<path d="M50 50L55 55L50 60L45 55L50 50Z" fill="#8B7355" stroke="#5A4A3A" stroke-width="2"/>
+<path d="M76 50L81 55L76 60L71 55L76 50Z" fill="#8B7355" stroke="#5A4A3A" stroke-width="2"/>
+<path d="M50 76L55 71L60 76L55 81L50 76Z" fill="#8B7355" stroke="#5A4A3A" stroke-width="2"/>
+<path d="M76 76L81 71L86 76L81 81L76 76Z" fill="#8B7355" stroke="#5A4A3A" stroke-width="2"/>
+<path d="M63 63L55 55M63 63L71 55M63 63L55 71M63 63L71 71" stroke="#5A4A3A" stroke-width="2" stroke-linecap="round"/>
+<defs>
+<linearGradient id="paint0_linear_ortho" x1="63" y1="0" x2="63" y2="126" gradientUnits="userSpaceOnUse">
+<stop stop-color="#AFC1DC"/>
+<stop offset="1" stop-color="#E2E5ED"/>
+</linearGradient>
+</defs>
+</svg>

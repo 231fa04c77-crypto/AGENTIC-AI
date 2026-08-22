@@ -1,0 +1,86 @@
+# Local scale-out stack: Redis + workers + observability + optional PgBouncer
+# Finish-all (dev/staging laptop):
+#   docker compose up -d redis
+#   docker compose --profile obs up -d
+#   docker compose --profile workers up -d worker   # needs build + .env
+#   python scripts/finish_enterprise_ops.py
+#
+# fastapi_back/.env:
+#   REDIS_URL=redis://localhost:6379/0
+#   RUN_BACKGROUND_WORKERS_IN_API=true   # or false when worker profile is up
+#   AI_ASSISTANT_ENABLED=false
+
+services:
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    volumes:
+      - medclues_redis:/data
+    command: ["redis-server", "--appendonly", "yes", "--maxmemory-policy", "allkeys-lru"]
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  worker:
+    profiles: ["workers"]
+    build:
+      context: ./fastapi_back
+      dockerfile: Dockerfile.worker
+    env_file:
+      - ./fastapi_back/.env
+    environment:
+      REDIS_URL: redis://redis:6379/0
+      RUN_BACKGROUND_WORKERS_IN_API: "false"
+    depends_on:
+      redis:
+        condition: service_healthy
+    restart: unless-stopped
+
+  prometheus:
+    profiles: ["obs"]
+    image: prom/prometheus:v2.54.1
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./docs/enterprise/prometheus/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - ./docs/enterprise/prometheus/slo_rules.yml:/etc/prometheus/slo_rules.yml:ro
+    command:
+      - "--config.file=/etc/prometheus/prometheus.yml"
+      - "--storage.tsdb.path=/prometheus"
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+  grafana:
+    profiles: ["obs"]
+    image: grafana/grafana:11.2.0
+    ports:
+      - "3001:3000"
+    environment:
+      GF_SECURITY_ADMIN_USER: admin
+      GF_SECURITY_ADMIN_PASSWORD: medclues
+      GF_USERS_ALLOW_SIGN_UP: "false"
+    volumes:
+      - medclues_grafana:/var/lib/grafana
+      - ./docs/enterprise/grafana/medclues-overview.json:/var/lib/grafana/dashboards/medclues-overview.json:ro
+      - ./docs/enterprise/grafana/provisioning:/etc/grafana/provisioning:ro
+    depends_on:
+      - prometheus
+
+  # Optional: local Postgres pooling only. For Neon, use the Neon pooler hostname instead.
+  pgbouncer:
+    profiles: ["pool"]
+    image: edoburu/pgbouncer:1.22.1
+    ports:
+      - "6432:6432"
+    volumes:
+      - ./docs/enterprise/pgbouncer/pgbouncer.ini:/etc/pgbouncer/pgbouncer.ini:ro
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    restart: unless-stopped
+
+volumes:
+  medclues_redis:
+  medclues_grafana:

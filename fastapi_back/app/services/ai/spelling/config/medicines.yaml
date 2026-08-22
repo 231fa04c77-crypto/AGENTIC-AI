@@ -1,0 +1,40 @@
+version: 1
+category: Medicine
+entries:
+- id: paracetamol
+  canonical: Paracetamol
+  category: Medicine
+  misspellings:
+  - paracetmol
+  - paracetamoll
+  - paracetmol
+- id: amoxicillin
+  canonical: Amoxicillin
+  category: Medicine
+  misspellings:
+  - amoxcillin
+  - amoxycillin
+  - amoxicilin
+- id: azithromycin
+  canonical: Azithromycin
+  category: Medicine
+  misspellings:
+  - azithromicin
+  - azithromyacin
+- id: metformin
+  canonical: Metformin
+  category: Medicine
+  misspellings:
+  - metmorfin
+  - metformine
+- id: ibuprofen
+  canonical: Ibuprofen
+  category: Medicine
+  misspellings:
+  - ibuprofin
+- id: omeprazole
+  canonical: Omeprazole
+  category: Medicine
+  misspellings:
+  - omeprazol
+  - omeprezole

@@ -1,0 +1,58 @@
+version: 1
+category: Specialty
+entries:
+- id: ent
+  abbreviation: ENT
+  expanded: Ear Nose Throat
+  canonical: Ear Nose Throat Specialist
+  category: Specialty
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: gp
+  abbreviation: GP
+  expanded: General Physician
+  canonical: General Physician
+  category: Specialty
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: obg
+  abbreviation: OBG
+  expanded: Obstetrics and Gynecology
+  canonical: Obstetrics and Gynecology
+  category: Specialty
+  aliases:
+  - OBGYN
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: ortho
+  abbreviation: Ortho
+  expanded: Orthopedics
+  canonical: Orthopedics
+  category: Specialty
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: neuro
+  abbreviation: Neuro
+  expanded: Neurology
+  canonical: Neurology
+  category: Specialty
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: cardio
+  abbreviation: Cardio
+  expanded: Cardiology
+  canonical: Cardiology
+  category: Specialty
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []

@@ -1,0 +1,95 @@
+version: 1
+category: HealthcareTerm
+entities:
+- id: term_opd
+  canonical: OPD
+  category: HealthcareTerm
+  normalized: OPD
+  aliases:
+  - outpatient
+  - out patient
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: term_followup
+  canonical: Follow-up
+  category: HealthcareTerm
+  normalized: Follow-up
+  aliases:
+  - follow up
+  - review visit
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: term_prescription
+  canonical: Prescription
+  category: HealthcareTerm
+  normalized: Prescription
+  aliases:
+  - rx
+  - script
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: term_referral
+  canonical: Referral
+  category: HealthcareTerm
+  normalized: Referral
+  aliases: []
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: term_triage
+  canonical: Triage
+  category: HealthcareTerm
+  normalized: Triage
+  aliases: []
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: term_discharge
+  canonical: Discharge
+  category: HealthcareTerm
+  normalized: Discharge
+  aliases: []
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: term_admission
+  canonical: Admission
+  category: HealthcareTerm
+  normalized: Admission
+  aliases:
+  - admit
+  - hospital admission
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []

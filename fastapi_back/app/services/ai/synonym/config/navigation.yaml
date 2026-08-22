@@ -1,0 +1,81 @@
+version: 1
+category: navigation
+entries:
+- id: appointments
+  canonical: Appointments
+  category: navigation
+  synonyms:
+  - my bookings
+  - my appointments
+  - booking list
+  - upcoming visits
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: pharmacy
+  canonical: Pharmacy
+  category: navigation
+  synonyms:
+  - medicine store
+  - medical store
+  - drugstore
+  - chemist
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: community
+  canonical: Community
+  category: navigation
+  synonyms:
+  - health forum
+  - forum
+  - community forum
+  - health community
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: lab_reports
+  canonical: Lab Reports
+  category: navigation
+  synonyms:
+  - reports
+  - my reports
+  - lab results
+  - test reports
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: dashboard
+  canonical: Dashboard
+  category: navigation
+  synonyms:
+  - home screen
+  - main screen
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: profile
+  canonical: Profile
+  category: navigation
+  synonyms:
+  - my profile
+  - account
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: settings
+  canonical: Settings
+  category: navigation
+  synonyms:
+  - preferences
+  - app settings
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []

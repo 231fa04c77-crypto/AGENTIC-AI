@@ -1,0 +1,122 @@
+version: 1
+category: symptom
+entries:
+- id: fever
+  canonical: Fever
+  category: symptom
+  synonyms:
+  - high temperature
+  - high temp
+  - running temperature
+  - pyrexia
+  - jwaram
+  - jwaramu
+  - naaku fever undi
+  - fever undi
+  aliases: []
+  abbreviations: []
+  misspellings:
+  - fevr
+  - feaver
+  - feber
+  - fvr
+  plurals:
+  - fevers
+- id: sob
+  canonical: Shortness of Breath
+  category: symptom
+  synonyms:
+  - breathing problem
+  - breathing difficulty
+  - cant breathe
+  - cannot breathe
+  - difficulty breathing
+  - swasa ragaledu
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: chest_pain
+  canonical: Chest Pain
+  category: symptom
+  synonyms:
+  - chest tightness
+  - chest discomfort
+  - pain in chest
+  - gunde noppi
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: headache
+  canonical: Headache
+  category: symptom
+  synonyms:
+  - head pain
+  - thala noppi
+  - thala noppi undi
+  - thalanoi
+  - ninna nundi thala noppi
+  aliases: []
+  abbreviations: []
+  misspellings:
+  - headche
+  - hedache
+  - headace
+  plurals:
+  - headaches
+- id: cough
+  canonical: Cough
+  category: symptom
+  synonyms:
+  - coughing
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals:
+  - coughs
+- id: dizziness
+  canonical: Dizziness
+  category: symptom
+  synonyms:
+  - dizzy
+  - lightheaded
+  - vertigo
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: vomiting
+  canonical: Vomiting
+  category: symptom
+  synonyms:
+  - throwing up
+  - puking
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: body_pain
+  canonical: Body Pain
+  category: symptom
+  synonyms:
+  - body ache
+  - body aches
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: stomach_pain
+  canonical: Stomach Pain
+  category: symptom
+  synonyms:
+  - tummy pain
+  - belly pain
+  - stomak pain
+  - kadupu noppi
+  aliases: []
+  abbreviations: []
+  misspellings:
+  - stomak
+  - stomack
+  plurals: []

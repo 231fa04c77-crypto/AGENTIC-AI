@@ -1,0 +1,40 @@
+version: 1
+category: Department
+entries:
+- id: icu
+  abbreviation: ICU
+  expanded: Intensive Care Unit
+  canonical: Intensive Care Unit
+  category: Department
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: opd
+  abbreviation: OPD
+  expanded: Outpatient Department
+  canonical: Outpatient Department
+  category: Department
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: ipd
+  abbreviation: IPD
+  expanded: Inpatient Department
+  canonical: Inpatient Department
+  category: Department
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: er
+  abbreviation: ER
+  expanded: Emergency Room
+  canonical: Emergency Room
+  category: Department
+  aliases:
+  - A&E
+  contexts: []
+  aliases_hi: []
+  aliases_te: []

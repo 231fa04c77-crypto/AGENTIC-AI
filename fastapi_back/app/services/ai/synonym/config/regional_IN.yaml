@@ -1,0 +1,74 @@
+version: 1
+category: regional
+entries:
+- id: tylenol_in
+  canonical: Paracetamol
+  category: medicine
+  synonyms:
+  - tylenol
+  aliases:
+  - tylenol
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  regions:
+  - IN
+- id: crocin_in
+  canonical: Paracetamol
+  category: medicine
+  synonyms:
+  - crocin
+  - crocin advance
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  regions:
+  - IN
+- id: dolo_in
+  canonical: Paracetamol
+  category: medicine
+  synonyms:
+  - dolo
+  - dolo 650
+  - dolo650
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  regions:
+  - IN
+- id: combiflam_in
+  canonical: Ibuprofen
+  category: medicine
+  synonyms:
+  - combiflam
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  regions:
+  - IN
+- id: calpol_in
+  canonical: Paracetamol
+  category: medicine
+  synonyms:
+  - calpol
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  regions:
+  - IN
+- id: doctor_cheyali_in
+  canonical: Book Appointment
+  category: appointment
+  synonyms:
+  - doctor cheyali
+  - appointment kavali
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  regions:
+  - IN

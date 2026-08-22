@@ -1,0 +1,163 @@
+version: 1
+category: City
+entities:
+- id: hyderabad
+  canonical: Hyderabad
+  category: City
+  normalized: Hyderabad
+  aliases:
+  - hyd
+  - cyberabad
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    state_id: telangana
+  aliases_hi: []
+  aliases_te: []
+- id: bangalore
+  canonical: Bengaluru
+  category: City
+  normalized: Bengaluru
+  aliases:
+  - bangalore
+  - blr
+  synonyms: []
+  abbreviations: []
+  misspellings:
+  - bengalooru
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: mumbai
+  canonical: Mumbai
+  category: City
+  normalized: Mumbai
+  aliases:
+  - bombay
+  - bom
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: delhi
+  canonical: New Delhi
+  category: City
+  normalized: New Delhi
+  aliases:
+  - delhi
+  - ncr
+  - new delhi
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: chennai
+  canonical: Chennai
+  category: City
+  normalized: Chennai
+  aliases:
+  - madras
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: kolkata
+  canonical: Kolkata
+  category: City
+  normalized: Kolkata
+  aliases:
+  - calcutta
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: pune
+  canonical: Pune
+  category: City
+  normalized: Pune
+  aliases:
+  - poona
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: ahmedabad
+  canonical: Ahmedabad
+  category: City
+  normalized: Ahmedabad
+  aliases:
+  - amdavad
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: jaipur
+  canonical: Jaipur
+  category: City
+  normalized: Jaipur
+  aliases: []
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: lucknow
+  canonical: Lucknow
+  category: City
+  normalized: Lucknow
+  aliases: []
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: kochi
+  canonical: Kochi
+  category: City
+  normalized: Kochi
+  aliases:
+  - cochin
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: chandigarh
+  canonical: Chandigarh
+  category: City
+  normalized: Chandigarh
+  aliases: []
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []

@@ -1,0 +1,76 @@
+version: 1
+category: Medical
+entries:
+- id: op_outpatient
+  abbreviation: OP
+  expanded: Out Patient
+  canonical: Out Patient
+  category: Medical
+  aliases: []
+  contexts:
+  - ticket
+  - opd
+  - visit
+  - consultation
+  - clinic
+  - registration
+  aliases_hi: []
+  aliases_te: []
+  sense_id: outpatient
+- id: op_operation
+  abbreviation: OP
+  expanded: Operation
+  canonical: Operation
+  category: Medical
+  aliases: []
+  contexts:
+  - scheduled
+  - surgery
+  - theatre
+  - ot
+  - surgical
+  - operation
+  aliases_hi: []
+  aliases_te: []
+  sense_id: operation
+- id: op_operator
+  abbreviation: OP
+  expanded: Operator
+  canonical: Operator
+  category: Medical
+  aliases: []
+  contexts:
+  - call
+  - helpline
+  - phone
+  - operator
+  aliases_hi: []
+  aliases_te: []
+  sense_id: operator
+- id: ot
+  abbreviation: OT
+  expanded: Operation Theatre
+  canonical: Operation Theatre
+  category: Medical
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: dob
+  abbreviation: DOB
+  expanded: Date of Birth
+  canonical: Date of Birth
+  category: Medical
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []
+- id: mrn
+  abbreviation: MRN
+  expanded: Medical Record Number
+  canonical: Medical Record Number
+  category: Medical
+  aliases: []
+  contexts: []
+  aliases_hi: []
+  aliases_te: []

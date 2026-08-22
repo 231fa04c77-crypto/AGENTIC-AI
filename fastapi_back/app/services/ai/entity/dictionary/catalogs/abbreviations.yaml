@@ -1,0 +1,136 @@
+version: 1
+category: Abbreviation
+entities:
+- id: abbr_bp
+  canonical: Blood Pressure
+  category: Abbreviation
+  normalized: Blood Pressure
+  aliases:
+  - blood pressure
+  synonyms: []
+  abbreviations:
+  - BP
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: abbr_cbc
+  canonical: Complete Blood Count
+  category: Abbreviation
+  normalized: Complete Blood Count
+  aliases: []
+  synonyms: []
+  abbreviations:
+  - CBC
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: abbr_mri
+  canonical: Magnetic Resonance Imaging
+  category: Abbreviation
+  normalized: Magnetic Resonance Imaging
+  aliases: []
+  synonyms: []
+  abbreviations:
+  - MRI
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: abbr_ct
+  canonical: Computed Tomography
+  category: Abbreviation
+  normalized: Computed Tomography
+  aliases: []
+  synonyms: []
+  abbreviations:
+  - CT
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: abbr_ecg
+  canonical: Electrocardiogram
+  category: Abbreviation
+  normalized: Electrocardiogram
+  aliases: []
+  synonyms: []
+  abbreviations:
+  - ECG
+  - EKG
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: abbr_ent
+  canonical: Ear Nose Throat
+  category: Abbreviation
+  normalized: Ear Nose Throat
+  aliases: []
+  synonyms: []
+  abbreviations:
+  - ENT
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: abbr_icu
+  canonical: Intensive Care Unit
+  category: Abbreviation
+  normalized: Intensive Care Unit
+  aliases: []
+  synonyms: []
+  abbreviations:
+  - ICU
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: abbr_ot
+  canonical: Operation Theatre
+  category: Abbreviation
+  normalized: Operation Theatre
+  aliases: []
+  synonyms: []
+  abbreviations:
+  - OT
+  - OR
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: abbr_opd
+  canonical: Outpatient Department
+  category: Abbreviation
+  normalized: Outpatient Department
+  aliases: []
+  synonyms: []
+  abbreviations:
+  - OPD
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: abbr_ipd
+  canonical: Inpatient Department
+  category: Abbreviation
+  normalized: Inpatient Department
+  aliases: []
+  synonyms: []
+  abbreviations:
+  - IPD
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []

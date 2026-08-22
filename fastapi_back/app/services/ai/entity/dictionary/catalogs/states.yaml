@@ -1,0 +1,162 @@
+version: 1
+category: State
+entities:
+- id: telangana
+  canonical: Telangana
+  category: State
+  normalized: Telangana
+  aliases:
+  - tg
+  synonyms: []
+  abbreviations:
+  - TS
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: andhra_pradesh
+  canonical: Andhra Pradesh
+  category: State
+  normalized: Andhra Pradesh
+  aliases:
+  - ap
+  synonyms: []
+  abbreviations:
+  - AP
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: karnataka
+  canonical: Karnataka
+  category: State
+  normalized: Karnataka
+  aliases: []
+  synonyms: []
+  abbreviations:
+  - KA
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: maharashtra
+  canonical: Maharashtra
+  category: State
+  normalized: Maharashtra
+  aliases: []
+  synonyms: []
+  abbreviations:
+  - MH
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: tamil_nadu
+  canonical: Tamil Nadu
+  category: State
+  normalized: Tamil Nadu
+  aliases: []
+  synonyms: []
+  abbreviations:
+  - TN
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: delhi_nct
+  canonical: Delhi
+  category: State
+  normalized: Delhi
+  aliases:
+  - nct delhi
+  synonyms: []
+  abbreviations:
+  - DL
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: west_bengal
+  canonical: West Bengal
+  category: State
+  normalized: West Bengal
+  aliases: []
+  synonyms: []
+  abbreviations:
+  - WB
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: gujarat
+  canonical: Gujarat
+  category: State
+  normalized: Gujarat
+  aliases: []
+  synonyms: []
+  abbreviations:
+  - GJ
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: rajasthan
+  canonical: Rajasthan
+  category: State
+  normalized: Rajasthan
+  aliases: []
+  synonyms: []
+  abbreviations:
+  - RJ
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: uttar_pradesh
+  canonical: Uttar Pradesh
+  category: State
+  normalized: Uttar Pradesh
+  aliases: []
+  synonyms: []
+  abbreviations:
+  - UP
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: kerala
+  canonical: Kerala
+  category: State
+  normalized: Kerala
+  aliases: []
+  synonyms: []
+  abbreviations:
+  - KL
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: punjab
+  canonical: Punjab
+  category: State
+  normalized: Punjab
+  aliases: []
+  synonyms: []
+  abbreviations:
+  - PB
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []

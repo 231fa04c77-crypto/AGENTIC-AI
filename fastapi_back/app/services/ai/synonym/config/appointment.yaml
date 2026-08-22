@@ -1,0 +1,50 @@
+version: 1
+category: appointment
+entries:
+- id: book
+  canonical: Book Appointment
+  category: appointment
+  synonyms:
+  - schedule visit
+  - fix appointment
+  - fix a slot
+  - doctor kavali
+  - naaku doctor kavali
+  - need doctor
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: cancel
+  canonical: Cancel Appointment
+  category: appointment
+  synonyms:
+  - cancel booking
+  - cancel visit
+  aliases: []
+  abbreviations: []
+  misspellings:
+  - cancle
+  plurals: []
+- id: reschedule
+  canonical: Reschedule Appointment
+  category: appointment
+  synonyms:
+  - change appointment
+  - move appointment
+  aliases: []
+  abbreviations: []
+  misspellings:
+  - reshedule
+  plurals: []
+- id: slot
+  canonical: Slot
+  category: appointment
+  synonyms:
+  - time slot
+  - available slot
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals:
+  - slots

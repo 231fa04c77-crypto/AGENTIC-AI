@@ -1,0 +1,36 @@
+version: 1
+category: City
+entries:
+- id: hyderabad
+  canonical: Hyderabad
+  category: City
+  misspellings:
+  - hydrabad
+  - hyderbad
+  - hydrabbad
+- id: bengaluru
+  canonical: Bengaluru
+  category: City
+  misspellings:
+  - banglore
+  - bangalor
+  - bengalooru
+- id: visakhapatnam
+  canonical: Visakhapatnam
+  category: City
+  misspellings:
+  - vizagh
+  - vizag
+  - vishakapatnam
+- id: mumbai
+  canonical: Mumbai
+  category: City
+  misspellings:
+  - bombay
+  - mumbait
+- id: chennai
+  canonical: Chennai
+  category: City
+  misspellings:
+  - madrass
+  - chenai

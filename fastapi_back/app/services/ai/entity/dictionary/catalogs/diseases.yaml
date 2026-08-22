@@ -1,0 +1,155 @@
+version: 1
+category: Disease
+entities:
+- id: diabetes
+  canonical: Diabetes
+  category: Disease
+  normalized: Diabetes
+  aliases:
+  - diabetes mellitus
+  - sugar disease
+  synonyms:
+  - dm
+  abbreviations: []
+  misspellings:
+  - diabetis
+  - diabities
+  plurals: []
+  metadata:
+    icd_code: E11
+  aliases_hi: []
+  aliases_te: []
+- id: hypertension
+  canonical: Hypertension
+  category: Disease
+  normalized: Hypertension
+  aliases:
+  - high blood pressure
+  - high bp
+  synonyms: []
+  abbreviations:
+  - HTN
+  - BP
+  misspellings:
+  - hypertention
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: asthma
+  canonical: Asthma
+  category: Disease
+  normalized: Asthma
+  aliases:
+  - bronchial asthma
+  synonyms: []
+  abbreviations: []
+  misspellings:
+  - asma
+  - asthama
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: migraine
+  canonical: Migraine
+  category: Disease
+  normalized: Migraine
+  aliases:
+  - migraine headache
+  synonyms: []
+  abbreviations: []
+  misspellings:
+  - migrane
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: covid19
+  canonical: COVID-19
+  category: Disease
+  normalized: COVID-19
+  aliases:
+  - covid
+  - coronavirus
+  - covid 19
+  synonyms: []
+  abbreviations:
+  - COVID
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: anemia
+  canonical: Anemia
+  category: Disease
+  normalized: Anemia
+  aliases:
+  - anaemia
+  - low hemoglobin
+  synonyms: []
+  abbreviations: []
+  misspellings:
+  - aneamia
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: thyroid
+  canonical: Thyroid Disorder
+  category: Disease
+  normalized: Thyroid Disorder
+  aliases:
+  - thyroid
+  - hypothyroid
+  - hyperthyroid
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: dengue
+  canonical: Dengue
+  category: Disease
+  normalized: Dengue
+  aliases:
+  - dengue fever
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: uti
+  canonical: UTI
+  category: Disease
+  normalized: UTI
+  aliases:
+  - urinary tract infection
+  synonyms: []
+  abbreviations:
+  - UTI
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: tuberculosis
+  canonical: Tuberculosis
+  category: Disease
+  normalized: Tuberculosis
+  aliases:
+  - tb
+  - consumption
+  synonyms: []
+  abbreviations:
+  - TB
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []

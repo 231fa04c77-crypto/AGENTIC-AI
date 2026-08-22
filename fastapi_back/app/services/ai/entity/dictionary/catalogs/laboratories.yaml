@@ -1,0 +1,191 @@
+version: 1
+category: Laboratory
+entities:
+- id: cbc
+  canonical: CBC
+  category: Laboratory
+  normalized: CBC
+  aliases:
+  - complete blood count
+  - full blood count
+  synonyms:
+  - hemogram
+  abbreviations:
+  - CBC
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: mri
+  canonical: MRI
+  category: Laboratory
+  normalized: MRI
+  aliases:
+  - magnetic resonance imaging
+  synonyms: []
+  abbreviations:
+  - MRI
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: ct
+  canonical: CT
+  category: Laboratory
+  normalized: CT
+  aliases:
+  - ct scan
+  - computed tomography
+  - cat scan
+  synonyms: []
+  abbreviations:
+  - CT
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: ecg
+  canonical: ECG
+  category: Laboratory
+  normalized: ECG
+  aliases:
+  - ekg
+  - electrocardiogram
+  synonyms: []
+  abbreviations:
+  - ECG
+  - EKG
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: xray
+  canonical: X-Ray
+  category: Laboratory
+  normalized: X-Ray
+  aliases:
+  - x ray
+  - xray
+  - radiograph
+  synonyms: []
+  abbreviations:
+  - XR
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: hba1c
+  canonical: HbA1c
+  category: Laboratory
+  normalized: HbA1c
+  aliases:
+  - glycated hemoglobin
+  - a1c
+  - hba1c test
+  synonyms: []
+  abbreviations:
+  - HbA1c
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: lipid_profile
+  canonical: Lipid Profile
+  category: Laboratory
+  normalized: Lipid Profile
+  aliases:
+  - lipid
+  - cholesterol test
+  - lipid panel
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: lft
+  canonical: LFT
+  category: Laboratory
+  normalized: LFT
+  aliases:
+  - liver function test
+  - liver panel
+  synonyms: []
+  abbreviations:
+  - LFT
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: kft
+  canonical: KFT
+  category: Laboratory
+  normalized: KFT
+  aliases:
+  - kidney function test
+  - rft
+  - renal function test
+  synonyms: []
+  abbreviations:
+  - KFT
+  - RFT
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: urine_test
+  canonical: Urine Test
+  category: Laboratory
+  normalized: Urine Test
+  aliases:
+  - urine
+  - urinalysis
+  - urine routine
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: blood_sugar
+  canonical: Blood Sugar
+  category: Laboratory
+  normalized: Blood Sugar
+  aliases:
+  - glucose
+  - blood glucose
+  - fbs
+  - ppbs
+  - rbs
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: tsh
+  canonical: TSH
+  category: Laboratory
+  normalized: TSH
+  aliases:
+  - thyroid stimulating hormone
+  - thyroid test
+  synonyms: []
+  abbreviations:
+  - TSH
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []

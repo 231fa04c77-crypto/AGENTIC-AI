@@ -1,0 +1,50 @@
+version: 1
+category: Specialty
+entries:
+- id: dermatologist
+  canonical: Dermatologist
+  category: Specialty
+  misspellings:
+  - dermotologist
+  - dermatolgist
+  - dermatologyst
+- id: cardiologist
+  canonical: Cardiologist
+  category: Specialty
+  misspellings:
+  - cardialogist
+  - cardioligist
+  - cardiologyst
+- id: gynecologist
+  canonical: Gynecologist
+  category: Specialty
+  misspellings:
+  - gynecologyst
+  - gynaecologyst
+  - gyneclogist
+- id: orthopedic
+  canonical: Orthopedic
+  category: Specialty
+  misspellings:
+  - orthopeadic
+  - orthopadic
+  - orthopedik
+- id: pediatrician
+  canonical: Pediatrician
+  category: Specialty
+  misspellings:
+  - paediatrician
+  - peditrician
+  - pediatritian
+- id: neurologist
+  canonical: Neurologist
+  category: Specialty
+  misspellings:
+  - neurologyst
+  - neurologits
+- id: ophthalmologist
+  canonical: Ophthalmologist
+  category: Specialty
+  misspellings:
+  - opthalmologist
+  - ophthalmologyst

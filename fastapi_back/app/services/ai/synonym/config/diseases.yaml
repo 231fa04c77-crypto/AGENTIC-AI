@@ -1,0 +1,67 @@
+version: 1
+category: disease
+entries:
+- id: diabetes
+  canonical: Diabetes
+  category: disease
+  synonyms:
+  - sugar
+  - sugar disease
+  - high sugar
+  aliases:
+  - dm
+  abbreviations: []
+  misspellings:
+  - diabetis
+  - diabities
+  plurals: []
+- id: hypertension
+  canonical: Hypertension
+  category: disease
+  synonyms:
+  - high blood pressure
+  - high bp
+  aliases: []
+  abbreviations:
+  - HTN
+  misspellings: []
+  plurals: []
+- id: asthma
+  canonical: Asthma
+  category: disease
+  synonyms: []
+  aliases: []
+  abbreviations: []
+  misspellings:
+  - asma
+  - asthama
+  plurals: []
+- id: migraine
+  canonical: Migraine
+  category: disease
+  synonyms: []
+  aliases: []
+  abbreviations: []
+  misspellings:
+  - migrane
+  plurals: []
+- id: covid
+  canonical: COVID-19
+  category: disease
+  synonyms:
+  - coronavirus
+  - covid 19
+  aliases:
+  - covid
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: anemia
+  canonical: Anemia
+  category: disease
+  synonyms: []
+  aliases:
+  - anaemia
+  abbreviations: []
+  misspellings: []
+  plurals: []

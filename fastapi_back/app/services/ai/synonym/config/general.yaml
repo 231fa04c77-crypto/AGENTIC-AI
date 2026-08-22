@@ -1,0 +1,118 @@
+version: 1
+category: general
+entries:
+- id: bp
+  canonical: Blood Pressure
+  category: abbreviation
+  synonyms:
+  - blood pressure
+  aliases: []
+  abbreviations:
+  - BP
+  misspellings: []
+  plurals: []
+- id: icu
+  canonical: Intensive Care Unit
+  category: abbreviation
+  synonyms: []
+  aliases: []
+  abbreviations:
+  - ICU
+  misspellings: []
+  plurals: []
+- id: opd
+  canonical: Outpatient Department
+  category: abbreviation
+  synonyms: []
+  aliases: []
+  abbreviations:
+  - OPD
+  misspellings: []
+  plurals: []
+- id: support
+  canonical: Support
+  category: support
+  synonyms:
+  - help desk
+  - customer care
+  - raise ticket
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: complaint
+  canonical: Complaint
+  category: support
+  synonyms:
+  - file complaint
+  - grievance
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: hello
+  canonical: Hello
+  category: conversation
+  synonyms:
+  - hi there
+  - hey there
+  - namaste
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: thanks
+  canonical: Thank You
+  category: conversation
+  synonyms:
+  - thanks a lot
+  - thx
+  - ty
+  aliases: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+- id: hospital_word
+  canonical: Hospital
+  category: general
+  synonyms:
+  - clinic hospital
+  aliases: []
+  abbreviations: []
+  misspellings:
+  - hospitl
+  - hospitle
+  plurals:
+  - hospitals
+- id: tomorrow
+  canonical: Tomorrow
+  category: general
+  synonyms: []
+  aliases: []
+  abbreviations: []
+  misspellings:
+  - tomorow
+  - tommorow
+  plurals: []
+- id: medicine_word
+  canonical: Medicine
+  category: general
+  synonyms: []
+  aliases: []
+  abbreviations: []
+  misspellings:
+  - medicne
+  - medcine
+  plurals:
+  - medicines
+- id: appointment_word
+  canonical: Appointment
+  category: general
+  synonyms: []
+  aliases: []
+  abbreviations: []
+  misspellings:
+  - appointmnt
+  - appoinment
+  - appoitment
+  plurals: []

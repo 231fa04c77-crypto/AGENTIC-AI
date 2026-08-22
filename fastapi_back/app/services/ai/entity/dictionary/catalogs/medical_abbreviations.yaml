@@ -1,0 +1,85 @@
+version: 1
+category: MedicalAbbreviation
+entities:
+- id: medabbr_bid
+  canonical: Twice Daily
+  category: MedicalAbbreviation
+  normalized: Twice Daily
+  aliases: []
+  synonyms: []
+  abbreviations:
+  - BID
+  - BD
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: medabbr_tid
+  canonical: Three Times Daily
+  category: MedicalAbbreviation
+  normalized: Three Times Daily
+  aliases: []
+  synonyms: []
+  abbreviations:
+  - TID
+  - TDS
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: medabbr_od
+  canonical: Once Daily
+  category: MedicalAbbreviation
+  normalized: Once Daily
+  aliases: []
+  synonyms: []
+  abbreviations:
+  - OD
+  - QD
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: medabbr_sos
+  canonical: If Needed
+  category: MedicalAbbreviation
+  normalized: If Needed
+  aliases: []
+  synonyms: []
+  abbreviations:
+  - SOS
+  - PRN
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: medabbr_iv
+  canonical: Intravenous
+  category: MedicalAbbreviation
+  normalized: Intravenous
+  aliases: []
+  synonyms: []
+  abbreviations:
+  - IV
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []
+- id: medabbr_im
+  canonical: Intramuscular
+  category: MedicalAbbreviation
+  normalized: Intramuscular
+  aliases: []
+  synonyms: []
+  abbreviations:
+  - IM
+  misspellings: []
+  plurals: []
+  metadata: {}
+  aliases_hi: []
+  aliases_te: []

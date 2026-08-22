@@ -1,0 +1,50 @@
+version: 1
+category: Hospital
+entities:
+- id: demo_city_hospital
+  canonical: City Care Hospital
+  category: Hospital
+  normalized: City Care Hospital
+  aliases:
+  - city care
+  - city hospital
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    city: Hyderabad
+    branch: Main
+  aliases_hi: []
+  aliases_te: []
+- id: demo_apollo_seed
+  canonical: Apollo Seed Clinic
+  category: Hospital
+  normalized: Apollo Seed Clinic
+  aliases:
+  - apollo seed
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    city: Hyderabad
+  aliases_hi: []
+  aliases_te: []
+- id: demo_care_branch
+  canonical: Care Hospital Jubilee Hills
+  category: Hospital
+  normalized: Care Hospital Jubilee Hills
+  aliases:
+  - care jubilee
+  - jubilee hills care
+  synonyms: []
+  abbreviations: []
+  misspellings: []
+  plurals: []
+  metadata:
+    city: Hyderabad
+    branch: Jubilee Hills
+    parent_id: demo_city_hospital
+  aliases_hi: []
+  aliases_te: []
